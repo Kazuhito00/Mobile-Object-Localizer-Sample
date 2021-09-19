@@ -1,6 +1,6 @@
 # Mobile-Object-Localizer-Sample
 [Google MobileObjectLocalizer](https://tfhub.dev/google/object_detection/mobile_object_localizer_v1/1)のPythonでの動作サンプルです。<br>
-ONNXに変換したモデルも同梱しています。変換自体を試したい方は[MobileObjectLocalizer_tf2onnx.ipynb](MobileObjectLocalizer_tf2onnx.ipynb)を使用ください。<br>
+ONNXに変換したモデルも同梱しています。<br>変換自体を試したい方は[MobileObjectLocalizer_tf2onnx.ipynb](MobileObjectLocalizer_tf2onnx.ipynb)を使用ください。<br>
 
 <!-- ![smjqx-4ndt8](https://user-images.githubusercontent.com/37477845/133912917-768d2e2e-be8b-4474-8349-b31f56402798.gif) -->
 https://user-images.githubusercontent.com/37477845/133913149-fa296996-3f24-46cd-b52d-cb3d0ea6bedf.mp4
