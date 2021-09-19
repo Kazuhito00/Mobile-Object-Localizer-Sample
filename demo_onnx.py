@@ -24,7 +24,7 @@ def get_args():
         default=
         'model/object_detection_mobile_object_localizer_v1_1_default_1.onnx',
     )
-    parser.add_argument("--score", type=float, default=0.4)
+    parser.add_argument("--score", type=float, default=0.2)
 
     args = parser.parse_args()
 
